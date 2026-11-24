@@ -3,7 +3,7 @@ Project Title: Flood Management and Early Warning
 
 This project utilises a computer and enables people within Sierra Leonean communities to both record and manage flood data. It can analyse the data and assess the flood as being either LOW, MODERATE or HIGH. People in charge are then notified of what areas require further action. Improved information sharing is key along with early access to information. This project will also support communities to effectively manage and prepare for floods.
 
-##ALGORITHM – FLOOD REPORTING SYSTEM
+## ALGORITHM – FLOOD REPORTING SYSTEM
 
 1 Present the flood reporting menu.
 
