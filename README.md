@@ -11,5 +11,6 @@ This project utilises a computer and enables people within Sierra Leonean commun
 <img width="522" height="626" alt="WhatsApp Image 2026-11-17 at 13 13 33" src="https://github.com/user-attachments/assets/18bf3c44-3bed-489c-87b5-a45b6c6b3c9f" />
 
 #Project Flowchart screenshot
-<img width="1005" height="1280" alt="WhatsApp Image 2026-11-24 at 13 38 16" src="https://github.com/user-attachments/assets/1cd87c39-cf19-4e2e-a058-5666cecfa0dd" />
+<img width="1038" height="1080" alt="WhatsApp Image 2026-11-24 at 13 41 08" src="https://github.com/user-attachments/assets/51dd3b86-fae0-43ac-823e-94ac45926ac4" />
+
 
